@@ -3,3 +3,4 @@
 ## Exercise 1: Blink LED PD0
 ***GPIO_Exercise1***  
 This Project will Blink LED **Port D pin 0** on STM8S Discovery board (Relative Frequency) 
+![Imgur](https://imgur.com/elHkRwG)
