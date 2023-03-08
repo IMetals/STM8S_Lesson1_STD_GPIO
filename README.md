@@ -22,5 +22,5 @@ This Project will Blink LED **Port D pin 0** on STM8S Discovery board (Relative 
 ## Exercise 2: On/off LED PD0 follow button on PIN PA3
 ***GPIO_Exercise2***
 LED PD0 will ON if button at pin PA3 pressed.
-External Hardware
+External Hardware  
 ![Imgur](https://imgur.com/r4h78al.png)  
