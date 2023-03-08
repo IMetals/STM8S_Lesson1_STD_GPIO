@@ -22,11 +22,11 @@ void main(void)
   {
     if(GPIO_ReadInputPin(GPIOA,GPIO_PIN_3) == 0x08) //button not press
     {
-      GPIO_WriteLow(GPIOD, GPIO_PIN_0);
+      GPIO_WriteHigh(GPIOD, GPIO_PIN_0);
     }
     else //press button
     {
-      GPIO_WriteHigh(GPIOD, GPIO_PIN_0);
+      GPIO_WriteLow(GPIOD, GPIO_PIN_0);
       delay(1000);
     }
   }
