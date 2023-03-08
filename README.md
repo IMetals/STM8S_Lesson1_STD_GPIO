@@ -18,3 +18,9 @@ See detail in this project: https://github.com/IMetals/Template_IAR_STM8S.git
 ## Exercise 1: Blink LED PD0
 ***GPIO_Exercise1***  
 This Project will Blink LED **Port D pin 0** on STM8S Discovery board (Relative Frequency) 
+
+## Exercise 2: On/off LED PD0 follow button on PIN PA3
+***GPIO_Exercise2***
+LED PD0 will ON if button at pin PA3 pressed.
+External Hardware  
+![Imgur](https://imgur.com/r4h78al.png)  
